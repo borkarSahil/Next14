@@ -22,3 +22,16 @@
   <li>Api</li> 
 </ul>
 </p>
+
+# 2  Full Stack 
+<p>Learn about 
+<ul> 
+  <li>Server SetUp</li> 
+  <li>DataBase SetUp</li> 
+  <li>Schema Model</li> 
+  <li>Routing</li> 
+  <li>Dynamic Routing</li> 
+  <li>Fetching Data from Backend (DataBase) </li> 
+  <li>MetaData</li> 
+</ul>
+</p>
